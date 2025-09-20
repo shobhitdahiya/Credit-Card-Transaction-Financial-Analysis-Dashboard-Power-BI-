@@ -1,4 +1,4 @@
-Of course! Here is a professionally formatted README for your "Credit Card Financial Weekly Dashboard" project, styled like the example you provided.
+
 
 💳 Credit Card Financial Weekly Dashboard
 This project is a Business Intelligence dashboard designed to provide a comprehensive weekly overview of credit card performance. It transforms raw customer and transaction data from a SQL database into actionable insights using Power BI.
