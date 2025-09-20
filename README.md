@@ -96,5 +96,6 @@ Custom DAX queries were written to create calculated columns and measures for ad
 
 **Shobhit Raj Dahiya**
 
-* **LinkedIn**: `https://www.linkedin.com/in/shobhitrajdahiya/`
-* **GitHub**: `https://github.com/shobhitdahiya`
+* **LinkedIn**: https://www.linkedin.com/in/shobhitrajdahiya/
+* **GitHub**:
+* https://github.com/shobhitdahiya
